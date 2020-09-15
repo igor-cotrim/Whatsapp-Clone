@@ -1,68 +1,81 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Clone-Whatsapp </h1>
 
-## Available Scripts
+<h3 align="center">Whatsapp clone made with React !!!!</h3>
 
-In the project directory, you can run:
+<h4 align="center"> 
+	🚧  Concluded  🚧
+</h4>
 
-### `yarn start`
+<p align="center">
+ <a href="#about-">About</a> •
+ <a href="#how-to-run-ℹ">How to run</a> • 
+ <a href="#technology-">Technology</a> • 
+ <a href="#ideas-to-implement-">Ideas to implement</a> •
+ <a href="#license-">License</a> • 
+ <a href="#author-">Author</a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## About 💻
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Whatsapp clone!
 
-### `yarn test`
+To train the knowledge of React, I made a clone of whatsapp + firebase for the backend and database <br/>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `yarn build`
+## How to run ℹ
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```sh
+# Clone this repository
+$ git clone git@github.com:igor-cotrim/Whatsapp-Clone
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+# Access the project folder in your terminal/cmd
+$ cd Whatsapp-Clone
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Install the dependencies
+$ yarn install
 
-### `yarn eject`
+# Run the application in development mode
+$ yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# The application will open on the door:3000- acesse http://localhost:3000
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Pre requisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Before you begin, you will need to have the following tools installed on your machine: Git. In addition, it is good to have an editor to work with code like VSCode
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Technology 🛠
 
-## Learn More
+The following tools were used in the construction of the project:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### WhatsappClone ([React](https://pt-br.reactjs.org/) + [Javascript](https://www.javascript.com))
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React Dom](https://pt-br.reactjs.org/docs/react-dom.html)
+- [react-scripts](https://www.npmjs.com/package/react-scripts)
+- [emoji-picker-react](https://www.npmjs.com/package/emoji-picker-react)
+- [material-icons](https://material-ui.com/pt/)
+- [firebase](https://console.firebase.google.com/u/0/?hl=pt-br)
 
-### Code Splitting
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## License 📝
 
-### Analyzing the Bundle Size
+This project is under license [MIT](https://choosealicense.com/licenses/mit/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+---
 
-### Making a Progressive Web App
+## Author 🦸
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+<a href="https://www.linkedin.com/in/igorcotrim/">
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/50390408?s=460&u=fa3dad860e7be785755894c2c7f4cbd20ac4b1b0&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Igor Cotrim</b></sub></a> <a href="https://www.linkedin.com/in/igorcotrim/" title="linkedin">😎</a>
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Made with ❤️ by Igor Cotrim 👋🏽 Get in touch!
 
-### Deployment
+[![Linkedin Badge](https://img.shields.io/badge/-Igor_Cotrim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcotrim/)](https://www.linkedin.com/in/igorcotrim/) 
+[![Gmail Badge](https://img.shields.io/badge/-igorxuxicotrim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorxuxicotrim@gmail.com)](mailto:igorxuxicotrim@gmail.com)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
