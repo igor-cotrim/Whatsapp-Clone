@@ -14,6 +14,8 @@
  <a href="#author-">Author</a>
 </p>
 
+![WHATSAPP CLONE](https://github.com/igor-cotrim/Whatsapp-Clone/blob/master/%7B09338929-7743-4F89-A93B-8BA854DDD48F%7D.png.jpg)
+
 ## About 💻
 
 Whatsapp clone!
