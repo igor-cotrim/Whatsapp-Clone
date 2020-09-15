@@ -10,7 +10,6 @@
  <a href="#about-">About</a> •
  <a href="#how-to-run-ℹ">How to run</a> • 
  <a href="#technology-">Technology</a> • 
- <a href="#ideas-to-implement-">Ideas to implement</a> •
  <a href="#license-">License</a> • 
  <a href="#author-">Author</a>
 </p>
